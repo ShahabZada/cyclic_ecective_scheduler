@@ -37,3 +37,5 @@ Overall, Cyclic Executive Scheduling is a widely used scheduling technique in em
 particularly in applications where predictability and determinism are crucial. By dividing time into
 fixed cycles and assigning tasks to specific slots, it ensures that tasks are executed in a timely and
 repeatable manner, making it suitable for real-time applications.
+
+## Read the documentation for more details
