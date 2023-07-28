@@ -1,5 +1,0 @@
-Period,Execution,Deadline,Offset,Jitter,CPU ID,Fixed Start,Name,Function
-6     ,2        ,6       ,0     ,0     ,0     ,None       ,T1  ,&task_1
-9     ,2        ,9       ,0     ,0     ,0     ,None       ,T2  ,&task_2
-12    ,2        ,8       ,0     ,1     ,0     ,None       ,T3  ,&task_3
-18    ,4        ,10      ,0     ,1     ,0     ,None       ,T3  ,&task_3

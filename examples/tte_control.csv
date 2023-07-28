@@ -1,5 +1,0 @@
-Period  ,Execution,Deadline,Offset ,Jitter,CPU ID,Fixed Start,Name ,Function
-10000000,75063    ,10000000,0      ,0     ,2     ,None       ,CSYN ,&task_syn
-5000000 ,271062   ,5000000 ,0      ,0     ,2     ,1200000    ,CRECV,&task_recv
-5000000 ,485050   ,3600000 ,1200000,0     ,2     ,None       ,CCALC,&task_calc
-5000000 ,28300    ,5000000 ,0      ,0     ,2     ,3600000    ,CSEND,&task_send
