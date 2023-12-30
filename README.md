@@ -39,3 +39,7 @@ fixed cycles and assigning tasks to specific slots, it ensures that tasks are ex
 repeatable manner, making it suitable for real-time applications.
 
 ## Read the documentation for more details
+
+## Some Results
+![](https://github.com/ShahabZada/cyclic_exective_scheduler/blob/master/figures/figure.jpg)
+![](https://github.com/ShahabZada/cyclic_exective_scheduler/blob/master/figures/figure2.jpg)
